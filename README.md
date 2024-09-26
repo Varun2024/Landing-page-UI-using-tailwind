@@ -1,4 +1,4 @@
-# My First Web Development Project
+# Landing page UI using Tailwind css
 This is a project that showcases my skills and learning in web development using Tailwind CSS. Tailwind CSS is a utility-first CSS framework that allows me to create beautiful and responsive websites without writing custom CSS. I learned how to use Tailwind CSS from the official documentation1 and some online tutorials23.
 
 Features
