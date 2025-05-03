@@ -10,3 +10,9 @@ This project consists of a single-page website that introduces myself, my intere
 4. An about section with a profile picture, a brief introduction, and some icons of the technologies I use.
 5. A skills section with a progress bar and a list of the skills I have learned or want to learn.
 6. A contact section with a form that allows visitors to send me a message and a footer with some social media links.
+
+
+Here's a small demo:
+
+https://github.com/user-attachments/assets/8a10e6ce-308f-4912-87d9-665ff4d03b57
+
